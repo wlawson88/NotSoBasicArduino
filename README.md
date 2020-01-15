@@ -13,3 +13,7 @@ this will be my readme
 
 
 ## NewPing
+Description goes here
+### Wiring
+
+### Lessons Learned
