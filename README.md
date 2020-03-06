@@ -10,10 +10,10 @@ this will be my readme
 Format: ![Alt Text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2013/11/ultrasonic-sensor-with-arduino-hc-sr04.jpg)
   
 ### Lessons Learned
-i learned how to wire up a lcd screen and use it in different projects 
+i struggeld with wiring the lcd so i used https://youtu.be/Mr9FQKcrGpA as a guide to help me 
 
 ### problems that i had 
-i had problems with the coding when working on the project 
+
 
 
 ## NewPing
